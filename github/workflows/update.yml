@@ -1,0 +1,26 @@
+name: Update values from list
+
+on:
+  push:
+    paths: ["aotr-list.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild aotr_values.json
+        run: python3 import_list.py aotr-list.txt
+
+      - name: Save
+        run: |
+          git config user.name "aotr-values"
+          git config user.email "aotr-values@users.noreply.github.com"
+          git add aotr_values.json
+          git diff --staged --quiet || (git commit -m "Update values" && git pull --rebase && git push)
