@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-AOTR value lookup: shows an item's value in Emperor's Keys, Memory Scrolls and Vizard's Masks.
+AOTR value lookup: an item's value in Emperor's Keys, Memory Scrolls and Vizard's Masks.
 
   python3 aotr_value.py third eye
-  python3 aotr_value.py 2x toji attire
-  python3 aotr_value.py third eye --discord     # also sends it to your webhook
+  python3 aotr_value.py 2x toji attire --discord
 
-Needs aotr_values.json next to this file. --discord uses DISCORD_WEBHOOK_URL.
+Needs aotr_values.json next to this file (made by import_list.py).
+--discord posts the answer to the webhook in DISCORD_WEBHOOK_URL.
 """
 import difflib, json, os, re, sys, urllib.request
 from pathlib import Path
@@ -25,15 +25,34 @@ def fmt(n):
 
 
 def find(query):
-    q = norm(query)
-    items = {norm(i["name"]): i for i in DATA["items"]}
-    if q in items:
-        return items[q]
-    hits = [k for k in items if q in k]
-    if hits:
-        return items[min(hits, key=len)]
-    close = difflib.get_close_matches(q, items, n=1, cutoff=0.6)
-    return items[close[0]] if close else None
+    q, items = norm(query), DATA["items"]
+    same = lambda name: [i for i in items if norm(i["name"]) == norm(name)]
+    if same(q):
+        return same(q)
+    part = [i for i in items if q in norm(i["name"])]
+    if part:
+        return same(min(part, key=lambda i: len(i["name"]))["name"])
+    close = difflib.get_close_matches(q, {norm(i["name"]) for i in items}, n=1, cutoff=0.6)
+    return same(close[0]) if close else []
+
+
+def block(item, qty):
+    title = (f"{qty}x " if qty > 1 else "") + item["name"] + (f" ({item['category']})" if item.get("category") else "")
+    k = item.get("keys")
+    if k is None:
+        lines = ["No listed value (N/A or O/C)"]
+    else:
+        k *= qty
+        lines = [f"Keys: {fmt(k)}", f"Scrolls: {fmt(k / R['scroll'])}", f"Vizard’s Masks: {fmt(k / R['vizard'])}"]
+    extra = []
+    if item.get("demand"):
+        extra.append(f"demand {item['demand']}/10")
+    if item.get("status"):
+        extra.append(item["status"].lower())
+    tax = item.get("tax", item.get("gem_tax"))
+    if tax:
+        extra.append(f"{item.get('tax_type') or 'gem'} tax {fmt(tax)}")
+    return title, lines, extra
 
 
 def send(embed):
@@ -41,7 +60,7 @@ def send(embed):
     if not url.startswith("https://"):
         sys.exit("Set DISCORD_WEBHOOK_URL first.")
     req = urllib.request.Request(url, json.dumps({"embeds": [embed]}).encode(),
-                                 {"Content-Type": "application/json", "User-Agent": "aotr-value/1.0"})
+                                 {"Content-Type": "application/json", "User-Agent": "aotr-value/2.0"})
     urllib.request.urlopen(req, timeout=15)
 
 
@@ -52,24 +71,25 @@ def main():
     text = " ".join(args)
     m = re.match(r"^(\d+)\s*x?\s+(.*)$", text, re.I)
     qty, name = (int(m.group(1)), m.group(2)) if m else (1, text)
-    item = find(name)
-    if not item:
-        msg = f"No item like '{name}' in aotr_values.json yet."
+    hits = find(name)
+    if not hits:
+        msg = f"No item like '{name}' in aotr_values.json."
         if "--discord" in sys.argv:
             send({"title": "No match", "description": msg, "color": 0xE74C3C})
         sys.exit(msg)
-    k = item["keys"] * qty
-    title = f"{qty}x {item['name']}" if qty > 1 else item["name"]
-    lines = [f"Keys: {fmt(k)}", f"Scrolls: {fmt(k / R['scroll'])}", f"Vizard’s Masks: {fmt(k / R['vizard'])}"]
-    extra = [x for x in (f"demand {item['demand']}/10" if item.get("demand") else "", f"gem tax {fmt(item['gem_tax'])}" if item.get("gem_tax") else "") if x]
-    print(title + (f" ({item['category']})" if item.get("category") else ""))
-    print("  " + " | ".join(lines))
-    if extra:
-        print("  " + " · ".join(extra))
+    blocks = [block(h, qty) for h in hits[:6]]
+    for title, lines, extra in blocks:
+        print(title)
+        print("  " + " | ".join(lines))
+        if extra:
+            print("  " + " · ".join(extra))
     print(f"  Values from {DATA['updated']}")
     if "--discord" in sys.argv:
-        send({"title": title, "color": 0x8B5CF6, "description": "\n".join(lines),
-              "footer": {"text": f"AOTR values • {DATA['updated']}" + (f" • {' · '.join(extra)}" if extra else "")}})
+        body = "\n\n".join(f"**{t}**\n" + "\n".join(l) + (f"\n{' · '.join(e)}" if e else "") for t, l, e in blocks)
+        send({"title": blocks[0][0] if len(blocks) == 1 else f"Matches for “{name}”",
+              "description": body[:4000] if len(blocks) > 1 else "\n".join(blocks[0][1]),
+              "color": 0x8B5CF6,
+              "footer": {"text": f"AOTR values • {DATA['updated']}" + (f" • {' · '.join(blocks[0][2])}" if len(blocks) == 1 and blocks[0][2] else "")}})
         print("Sent to Discord.")
 
 
