@@ -1,0 +1,186 @@
+{
+ "updated": "2026-11-12",
+ "source": "aotr.vaultedvaluesx.com value list (top items only)",
+ "rates": {
+  "scroll": 4,
+  "vizard": 900,
+  "vizard_inferred": true
+ },
+ "items": [
+  {
+   "name": "Third Eye",
+   "keys": 1190000,
+   "gem_tax": 100000,
+   "demand": 7,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Vulcan’s Grace",
+   "keys": 574000,
+   "gem_tax": 100000,
+   "demand": 6,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Harugon",
+   "keys": 473000,
+   "gem_tax": null,
+   "demand": 6,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Eclipse",
+   "keys": 428000,
+   "gem_tax": 100000,
+   "demand": 6,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Ad Astra",
+   "keys": 185000,
+   "gem_tax": 100000,
+   "demand": 8,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Bearer of Worlds",
+   "keys": 180000,
+   "gem_tax": null,
+   "demand": 8,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Ultra Instinct",
+   "keys": 104000,
+   "gem_tax": null,
+   "demand": 7,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Seraphic",
+   "keys": 94500,
+   "gem_tax": 100000,
+   "demand": 5,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Matrix",
+   "keys": 67500,
+   "gem_tax": 100000,
+   "demand": 4,
+   "category": "Leaderboard"
+  },
+  {
+   "name": "Toji’s Attire",
+   "keys": 45900,
+   "gem_tax": 5625,
+   "demand": 8,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Ulquiorra’s Wings",
+   "keys": 40050,
+   "gem_tax": 5625,
+   "demand": 5,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Bambietta’s Wings",
+   "keys": 37800,
+   "gem_tax": 5625,
+   "demand": 5,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Zangetsu",
+   "keys": 22500,
+   "gem_tax": 5625,
+   "demand": 7,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Primera’s Attire",
+   "keys": 16200,
+   "gem_tax": 5625,
+   "demand": 6,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Black Flash",
+   "keys": 10800,
+   "gem_tax": 5625,
+   "demand": 4,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Cursed Markings",
+   "keys": 7200,
+   "gem_tax": 5625,
+   "demand": 4,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Mahoraga’s Wheel",
+   "keys": 6300,
+   "gem_tax": 1500,
+   "demand": 8,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Split Soul Katana",
+   "keys": 3150,
+   "gem_tax": 1500,
+   "demand": 8,
+   "category": "Anime Crates"
+  },
+  {
+   "name": "Helos",
+   "keys": 2700,
+   "gem_tax": null,
+   "demand": null,
+   "category": null
+  },
+  {
+   "name": "Fritz",
+   "keys": 2250,
+   "gem_tax": null,
+   "demand": null,
+   "category": null
+  },
+  {
+   "name": "Colossal Serum",
+   "keys": 450,
+   "gem_tax": null,
+   "demand": null,
+   "category": null
+  },
+  {
+   "name": "Heavenly Restriction",
+   "keys": 8,
+   "gem_tax": null,
+   "demand": null,
+   "category": null
+  },
+  {
+   "name": "Vizard’s Mask",
+   "keys": 900,
+   "gem_tax": null,
+   "demand": null,
+   "category": "Currency"
+  },
+  {
+   "name": "Memory Scroll",
+   "keys": 4,
+   "gem_tax": null,
+   "demand": null,
+   "category": "Currency"
+  },
+  {
+   "name": "Emperor’s Key",
+   "keys": 1,
+   "gem_tax": null,
+   "demand": null,
+   "category": "Currency"
+  }
+ ]
+}
