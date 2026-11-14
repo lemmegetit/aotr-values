@@ -1,186 +1,4987 @@
 {
- "updated": "2026-11-12",
- "source": "aotr.vaultedvaluesx.com value list (top items only)",
+ "updated": "2026-11-14",
+ "source": "aotr.vaultedvaluesx.com value list (553 items)",
  "rates": {
   "scroll": 4,
-  "vizard": 900,
-  "vizard_inferred": true
+  "vizard": 900
  },
  "items": [
   {
    "name": "Third Eye",
+   "category": "Leaderboard",
    "keys": 1190000,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 7,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
-   "name": "Vulcan’s Grace",
+   "name": "Vulcan's Grace",
+   "category": "Leaderboard",
    "keys": 574000,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 6,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Harugon",
+   "category": "Leaderboard",
    "keys": 473000,
-   "gem_tax": null,
+   "tax_type": null,
+   "tax": null,
    "demand": 6,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Eclipse",
+   "category": "Leaderboard",
    "keys": 428000,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 6,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Ad Astra",
+   "category": "Leaderboard",
    "keys": 185000,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 8,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Bearer of Worlds",
+   "category": "Leaderboard",
    "keys": 180000,
-   "gem_tax": null,
+   "tax_type": null,
+   "tax": null,
    "demand": 8,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Ultra Instinct",
+   "category": "Leaderboard",
    "keys": 104000,
-   "gem_tax": null,
+   "tax_type": null,
+   "tax": null,
    "demand": 7,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Seraphic",
+   "category": "Leaderboard",
    "keys": 94500,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 5,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
    "name": "Matrix",
+   "category": "Leaderboard",
    "keys": 67500,
-   "gem_tax": 100000,
+   "tax_type": "gem",
+   "tax": 100000,
    "demand": 4,
-   "category": "Leaderboard"
+   "status": "Stable"
   },
   {
-   "name": "Toji’s Attire",
+   "name": "Toji's Attire",
+   "category": "Anime Crates",
    "keys": 45900,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 8,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
-   "name": "Ulquiorra’s Wings",
+   "name": "Ulquiorra's Wings",
+   "category": "Anime Crates",
    "keys": 40050,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 5,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
-   "name": "Bambietta’s Wings",
+   "name": "Bambietta's Wings",
+   "category": "Anime Crates",
    "keys": 37800,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 5,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
    "name": "Zangetsu",
+   "category": "Anime Crates",
    "keys": 22500,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 7,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
-   "name": "Primera’s Attire",
+   "name": "Primera's Attire",
+   "category": "Anime Crates",
    "keys": 16200,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 6,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
    "name": "Black Flash",
+   "category": "Anime Crates",
    "keys": 10800,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 4,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
    "name": "Cursed Markings",
+   "category": "Anime Crates",
    "keys": 7200,
-   "gem_tax": 5625,
+   "tax_type": "gem",
+   "tax": 5625,
    "demand": 4,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
-   "name": "Mahoraga’s Wheel",
+   "name": "Mahoraga's Wheel",
+   "category": "Anime Crates",
    "keys": 6300,
-   "gem_tax": 1500,
+   "tax_type": "gem",
+   "tax": 1500,
    "demand": 8,
-   "category": "Anime Crates"
+   "status": "Stable"
   },
   {
    "name": "Split Soul Katana",
+   "category": "Anime Crates",
    "keys": 3150,
-   "gem_tax": 1500,
+   "tax_type": "gem",
+   "tax": 1500,
    "demand": 8,
-   "category": "Anime Crates"
+   "status": "Stable"
+  },
+  {
+   "name": "Captain's Attire",
+   "category": "Anime Crates",
+   "keys": 2700,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 5,
+   "status": "Stable"
   },
   {
    "name": "Helos",
+   "category": "Family",
    "keys": 2700,
-   "gem_tax": null,
-   "demand": null,
-   "category": null
+   "tax_type": "gem",
+   "tax": 50000,
+   "demand": 8,
+   "status": "Stable"
   },
   {
    "name": "Fritz",
+   "category": "Family",
    "keys": 2250,
-   "gem_tax": null,
-   "demand": null,
-   "category": null
+   "tax_type": "gem",
+   "tax": 50000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Atomic Armageddon",
+   "category": "Shifting, Raid Drops",
+   "keys": 2250,
+   "tax_type": null,
+   "tax": null,
+   "demand": 10,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Katen Kyokotsu",
+   "category": "Anime Crates",
+   "keys": 2070,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Ymir's Blessing",
+   "category": "Gamepasses",
+   "keys": 2070,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Icarus TS Set",
+   "category": "BATTLEPASS 2",
+   "keys": 2025,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri",
+   "category": "Battle Pass",
+   "keys": 1800,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [1] Crate",
+   "category": "Anime Crates",
+   "keys": 1800,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [2] Crate",
+   "category": "Anime Crates",
+   "keys": 1350,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Kazeshini",
+   "category": "Anime Crates",
+   "keys": 1350,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 8,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Icarus Gear",
+   "category": "Battle Pass",
+   "keys": 1125,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn",
+   "category": "Battle Pass",
+   "keys": 1080,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Elderflame ODM Set",
+   "category": "BATTLEPASS 2",
+   "keys": 1080,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Avatar of Ymir",
+   "category": "Perks",
+   "keys": 1080,
+   "tax_type": null,
+   "tax": null,
+   "demand": 10,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Quincy's Attire",
+   "category": "Anime Crates",
+   "keys": 900,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Aincrad ODM Set",
+   "category": "BATTLEPASS 2",
+   "keys": 900,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Vizard's Mask",
+   "category": "Mission Drops",
+   "keys": 900,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 10,
+   "status": "Stable"
+  },
+  {
+   "name": "Godforged",
+   "category": "Perks",
+   "keys": 900,
+   "tax_type": null,
+   "tax": null,
+   "demand": 10,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Icarus Equipment",
+   "category": "Battle Pass",
+   "keys": 900,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Stormwrath",
+   "category": "Perks",
+   "keys": 900,
+   "tax_type": null,
+   "tax": null,
+   "demand": 10,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Azure Flames",
+   "category": "Blade Burst",
+   "keys": 810,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Geto's Attire",
+   "category": "Anime Crates",
+   "keys": 810,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "15th Commander",
+   "category": "Perks",
+   "keys": 810,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Impure Savior",
+   "category": "Shifting",
+   "keys": 810,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Mankind's Strongest",
+   "category": "Perks",
+   "keys": 810,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Sanguine Destroyer",
+   "category": "Perks",
+   "keys": 810,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Ulquiorra's Attire",
+   "category": "Anime Crates",
+   "keys": 720,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Aincrad Sheath",
+   "category": "Battle Pass",
+   "keys": 720,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Witch Hat",
+   "category": "Event",
+   "keys": 630,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Cosmic Nova",
+   "category": "Blade Burst",
+   "keys": 630,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Ignited",
+   "category": "Blade Burst",
+   "keys": 630,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Explosion Art",
+   "category": "Anime Crates",
+   "keys": 630,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Elderflame Sheath",
+   "category": "Battle Pass",
+   "keys": 630,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Impenetrable Shield",
+   "category": "Shifting, Raid Drops",
+   "keys": 630,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Candy Cane Blades",
+   "category": "Event",
+   "keys": 540,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Titanstrike",
+   "category": "Blade Burst",
+   "keys": 540,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Soul Reaper's Attire",
+   "category": "Anime Crates",
+   "keys": 540,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Snowman Head",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Christmas Crate",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Halloween Crate",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Elf Hat",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Butcher Blade",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Forsaken",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Equinox Moon",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Pointy Candy Cane Blades",
+   "category": "Event",
+   "keys": 450,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 4,
+   "status": "Stable"
   },
   {
    "name": "Colossal Serum",
+   "category": "Raid Drops, Shifting",
    "keys": 450,
-   "gem_tax": null,
-   "demand": null,
-   "category": null
+   "tax_type": "gem",
+   "tax": 5000,
+   "demand": 10,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Family Bag",
+   "category": "Gamepasses",
+   "keys": 450,
+   "tax_type": "gem",
+   "tax": 14000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Scarlet Blossom",
+   "category": "Shifting, Raid Drops",
+   "keys": 450,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Beast Serum",
+   "category": "Shifting",
+   "keys": 405,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Overpriced"
+  },
+  {
+   "name": "Branching Paths",
+   "category": "Perks",
+   "keys": 405,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Primordial Devil",
+   "category": "Shifting, Raid Drops",
+   "keys": 405,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Hot Chocolate",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Jack 'o Lantern",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Christmas Sheath",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Nichirin Cleaver",
+   "category": "Anime Crates",
+   "keys": 360,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Santa Hat",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Cookie",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Santa Sack",
+   "category": "Event",
+   "keys": 360,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Giyuu's Attire",
+   "category": "Anime Crates",
+   "keys": 360,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Astolfo's Attire",
+   "category": "Anime Crates",
+   "keys": 360,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Gilgamesh's Attire",
+   "category": "Anime Crates",
+   "keys": 360,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Delta's Tail",
+   "category": "Waves",
+   "keys": 360,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Elderflame Blade",
+   "category": "Battle Pass",
+   "keys": 360,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Eternal",
+   "category": "Perks",
+   "keys": 360,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Nine Tail's Attire",
+   "category": "Waves",
+   "keys": 360,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "item-33",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 315,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Shadow's Attire",
+   "category": "Anime Crates",
+   "keys": 315,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "VIP Server",
+   "category": "Gamepasses",
+   "keys": 315,
+   "tax_type": "gem",
+   "tax": 6000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Foresight",
+   "category": "Perks",
+   "keys": 315,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Offense Fragment",
+   "category": "Perks",
+   "keys": 315,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Wings of Freedom",
+   "category": "Perks",
+   "keys": 315,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "item-32",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Demonic Gaze",
+   "category": "Blade Burst",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Vulcano Caligorante",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Cursed Energy",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "VIP",
+   "category": "Gamepasses",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 3000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Spirit ODM Set",
+   "category": "BATTLEPASS 1",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ink",
+   "category": "Blade Burst",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Cat Ears",
+   "category": "Scout Fashion",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 4500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Gingerbread Blades",
+   "category": "Event",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Maid's Attire",
+   "category": "Scout Fashion",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 4500,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "White Skeleton's Attire",
+   "category": "Event",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Tengen's Attire",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Grumpy",
+   "category": "Event",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Memory Bag",
+   "category": "Gamepasses",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 3750,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Angel's Wings",
+   "category": "Scout Fashion",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 15000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Kyokokukamusari",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Sorcerer's Attire",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Inverted Spear Of Heaven",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina",
+   "category": "Battle Pass",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri ODM Set",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 270,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Kisuke's Attire",
+   "category": "Anime Crates",
+   "keys": 270,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Aincrad Blade",
+   "category": "Battle Pass",
+   "keys": 270,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Body Fragment",
+   "category": "Perks",
+   "keys": 270,
+   "tax_type": null,
+   "tax": null,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Elderflame Gear",
+   "category": "Battle Pass",
+   "keys": 270,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Advanced Customization",
+   "category": "Gamepasses",
+   "keys": 225,
+   "tax_type": "gem",
+   "tax": 2000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "+1 Drop",
+   "category": "Gamepasses",
+   "keys": 225,
+   "tax_type": "gem",
+   "tax": 4750,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Brute Force",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Counter Guard",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Noxious Blood",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Pugilist",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Thunderous Attunement",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Void's Call",
+   "category": "Shifting, Raid Drops",
+   "keys": 225,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "item-31",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 5,
+   "status": "Unstable"
+  },
+  {
+   "name": "🗿",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Susanoo's Wings",
+   "category": "Anime Crates",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Moai",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Easter Crate",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Christmas Gear",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Pajama's Attire",
+   "category": "Scout Fashion",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Gae Bolg",
+   "category": "Anime Crates",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ski Mask",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Utahime's Attire",
+   "category": "Anime Crates",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Flame Breath",
+   "category": "Anime Crates",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Starry Night",
+   "category": "Blade Burst",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Bunny Girl's Attire",
+   "category": "Scout Fashion",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 15000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Blade Head",
+   "category": "Event",
+   "keys": 180,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Zangetsu [M]",
+   "category": "Anime Crates",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Loadouts",
+   "category": "Gamepasses",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Serum Bag",
+   "category": "Gamepasses",
+   "keys": 180,
+   "tax_type": "gem",
+   "tax": 4750,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Support Fragment",
+   "category": "Perks",
+   "keys": 180,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Dual Cosmetic",
+   "category": "Gamepasses",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "item-30",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 135,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Unstable"
+  },
+  {
+   "name": "Frostbite",
+   "category": "Blade Burst",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Kanshou",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Bakuya",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Lightning Breath",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Green Aura with Flies",
+   "category": "Event",
+   "keys": 135,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Axe Head",
+   "category": "Event",
+   "keys": 135,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Internet Girl",
+   "category": "Blade Burst",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Madara's Attire",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Gojo's Blindfold",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Berserker's Attire",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Benihime",
+   "category": "Anime Crates",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Green Skeleton's Attire",
+   "category": "Event",
+   "keys": 135,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Ackerman",
+   "category": "Family",
+   "keys": 135,
+   "tax_type": "gem",
+   "tax": 15000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Chainsaw Puppy",
+   "category": "Event",
+   "keys": 135,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Defense Fragment",
+   "category": "Perks",
+   "keys": 135,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn Spear Equipment",
+   "category": "Raid Drops",
+   "keys": 135,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn Spear Gear",
+   "category": "Raid Drops",
+   "keys": 135,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn Blade",
+   "category": "Raid Drops",
+   "keys": 108,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn Gear",
+   "category": "Raid Drops",
+   "keys": 108,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Jotunn Sheath",
+   "category": "Raid Drops",
+   "keys": 108,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Katana",
+   "category": "Anime Crates",
+   "keys": 106,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Military Attire",
+   "category": "Achievements",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Farmer Hat",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Easter Spear Gear",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Blade Burst [1] Crate",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bloodletting",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Nichirin Katana",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Farmer's Attire",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Dawnbreak",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Sword Of Rupture",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Jet Black Sword",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Quincy Hat",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Berserker's Mane",
+   "category": "Scout Fashion",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 4500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Rengoku's Attire",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Gunbai",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "The Dragon Slayer",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Kenny's Attire",
+   "category": "Scout Fashion",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bunny Girl's Ears",
+   "category": "Scout Fashion",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 4500,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Archer's Attire",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slime Sword",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 5625,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Water Breath",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Saber's Attire",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Rose Petal",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Cinder Lord",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Toshiro's Scarf",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Kisuke's Hat",
+   "category": "Anime Crates",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Chroma Surge",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Shogun's Attire",
+   "category": "Scout Fashion",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 4500,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Luminance",
+   "category": "Blade Burst",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 6750,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Bunny Ears",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Feathered Bicorn",
+   "category": "Artifacts, Waves",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Skip Roll",
+   "category": "Gamepasses",
+   "keys": 90,
+   "tax_type": "gem",
+   "tax": 625,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Easter Bunny's Attire",
+   "category": "Event",
+   "keys": 90,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Aincrad Gear",
+   "category": "Battle Pass",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Delta's Attire",
+   "category": "Waves",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri Blade",
+   "category": "Raid Drops",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri Gear",
+   "category": "Raid Drops",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri Sheath",
+   "category": "Raid Drops",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Spirit Blade",
+   "category": "Battle Pass",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Spirit Gear",
+   "category": "Battle Pass",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Spirit Sheath",
+   "category": "Battle Pass",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Sukuna's Attire",
+   "category": "Waves",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Three Tailed Beast",
+   "category": "Waves",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Yhwach's Cloak",
+   "category": "Waves",
+   "keys": 90,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Blood Scythe",
+   "category": "Anime Crates",
+   "keys": 75,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Blood Art",
+   "category": "Anime Crates",
+   "keys": 75,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Tanjiro's Attire",
+   "category": "Anime Crates",
+   "keys": 75,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar Spear Equipment",
+   "category": "Battle Pass",
+   "keys": 75,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina Blade",
+   "category": "Raid Drops",
+   "keys": 72,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina Gear",
+   "category": "Raid Drops",
+   "keys": 72,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina Sheath",
+   "category": "Raid Drops",
+   "keys": 72,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina Spear Equipment",
+   "category": "Raid Drops",
+   "keys": 72,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Deus Ex Machina Spear Gear",
+   "category": "Raid Drops",
+   "keys": 72,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Chicken",
+   "category": "Event",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Pajama Hat",
+   "category": "Scout Fashion",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [4] Crate",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [3] Crate",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Cracked Shell",
+   "category": "Event",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Shinobu's Attire",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Boar Mask",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Rabbit Foot Necklace",
+   "category": "Event",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bikini's Attire",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Gojo's Glasses",
+   "category": "Anime Crates",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Carrot",
+   "category": "Event",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Auto Sell",
+   "category": "Gamepasses",
+   "keys": 60,
+   "tax_type": "gem",
+   "tax": 625,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri TS Set",
+   "category": "EASTER EGG COSMETICS",
+   "keys": 60,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar Sheath",
+   "category": "Battle Pass",
+   "keys": 60,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar Spear Gear",
+   "category": "Battle Pass",
+   "keys": 60,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Slime Pal",
+   "category": "Mission Drops",
+   "keys": 60,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge Sheath",
+   "category": "Battle Pass",
+   "keys": 50,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge Spear Equipment",
+   "category": "Battle Pass",
+   "keys": 50,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Scout Fashion [1] Crate",
+   "category": "Scout Fashion",
+   "keys": 45,
+   "tax_type": "gold",
+   "tax": 3000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Maiden's Attire",
+   "category": "Scout Fashion",
+   "keys": 45,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ascendant Dice",
+   "category": "Waves",
+   "keys": 45,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Yeager",
+   "category": "Family",
+   "keys": 45,
+   "tax_type": "gem",
+   "tax": 15000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Devil's Wing",
+   "category": "Anime Crates",
+   "keys": 45,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Spirit's Wing",
+   "category": "Anime Crates",
+   "keys": 45,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Frankenstein",
+   "category": "Event",
+   "keys": 45,
+   "tax_type": "gold",
+   "tax": 80000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Green Goblin",
+   "category": "Event",
+   "keys": 45,
+   "tax_type": "gold",
+   "tax": 80000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Ichigo's Attire",
+   "category": "Waves",
+   "keys": 45,
+   "tax_type": null,
+   "tax": null,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Kokushibo's Attire",
+   "category": "Waves",
+   "keys": 45,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri Spear Equipment",
+   "category": "Raid Drops",
+   "keys": 45,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Onikiri Spear Gear",
+   "category": "Raid Drops",
+   "keys": 45,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Zero Two's Attire",
+   "category": "Waves",
+   "keys": 45,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar Blade",
+   "category": "Battle Pass",
+   "keys": 40,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge Spear Gear",
+   "category": "Battle Pass",
+   "keys": 40,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Unwavering Belief",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Font of Inspiration",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Adaptation",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Art of War",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Black Flash",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Kengo",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Founder's Blessing",
+   "category": "Perks",
+   "keys": 35,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Sasuke's Attire",
+   "category": "Anime Crates",
+   "keys": 35,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Akatsuki's Attire",
+   "category": "Anime Crates",
+   "keys": 35,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar Gear",
+   "category": "Battle Pass",
+   "keys": 35,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Immortal",
+   "category": "Perks",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Maximum Firepower",
+   "category": "Perks",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Luminosite Eternelle",
+   "category": "Anime Crates",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Maiden's Hat",
+   "category": "Scout Fashion",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Priest's Attire",
+   "category": "Anime Crates",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Caliburn",
+   "category": "Anime Crates",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ascendant Ticket",
+   "category": "Waves",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Krampus",
+   "category": "Event",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Kenny's Hat",
+   "category": "Scout Fashion",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Armored Scars",
+   "category": "Raid Drops, Artifacts",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Truth Seeking Orbs",
+   "category": "Anime Crates",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Reiss",
+   "category": "Family",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 15000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Colossal Scars",
+   "category": "Raid Drops, Artifacts",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Female Serum",
+   "category": "Raid Drops, Shifting",
+   "keys": 30,
+   "tax_type": "gem",
+   "tax": 5000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Female Scars",
+   "category": "Raid Drops, Artifacts",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Crystal Necklace",
+   "category": "Raid Drops, Artifacts",
+   "keys": 30,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Muzan's Fedora",
+   "category": "Waves",
+   "keys": 30,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Soulfeed",
+   "category": "Perks",
+   "keys": 25,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Mechanitor",
+   "category": "Blade Burst",
+   "keys": 25,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Blue Mechanitor",
+   "category": "Blade Burst",
+   "keys": 25,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer Box",
+   "category": "Anime Crates",
+   "keys": 25,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Crow Clone",
+   "category": "Anime Crates",
+   "keys": 25,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "The Perfect Idol",
+   "category": "Anime Crates",
+   "keys": 25,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Armored Serum",
+   "category": "Raid Drops, Shifting",
+   "keys": 25,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Blitzkrieg",
+   "category": "Perks",
+   "keys": 25,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Tatsujin",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Explosive Fortune",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Everlasting Flame",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "12 FPS",
+   "category": "Gamepasses",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Black Flash",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Gold Boost [2h]",
+   "category": "Market",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Luck Boost [2h]",
+   "category": "Market",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Verdant Glow",
+   "category": "Blade Burst",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Diamonds",
+   "category": "Blade Burst",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Arcane Surge",
+   "category": "Blade Burst",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Amethyst Ticket",
+   "category": "Waves",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Cosmic Dust",
+   "category": "Blade Burst",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1800,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Samehada",
+   "category": "Anime Crates",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Astolfo [2]'s Attire",
+   "category": "Anime Crates",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 1500,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Unwavering Belief",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Kengo",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar TS Set",
+   "category": "BATTLEPASS 3",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Radiant Headband",
+   "category": "Mission Drops",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Pulsar ODM Set",
+   "category": "BATTLEPASS 3",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Scorched Cloak",
+   "category": "Raid Drops, Artifacts",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Adaptation",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Attack Serum",
+   "category": "Raid Drops, Shifting",
+   "keys": 20,
+   "tax_type": "gem",
+   "tax": 5000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Founder's Blessing",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Angel's Halo",
+   "category": "Mission Drops",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Art of War",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Font of Inspiration",
+   "category": "Perks",
+   "keys": 20,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Beast Shard",
+   "category": "Shifting, Market",
+   "keys": 20,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Rin's Attire",
+   "category": "Waves",
+   "keys": 20,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge Blade",
+   "category": "Battle Pass",
+   "keys": 20,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge Gear",
+   "category": "Battle Pass",
+   "keys": 20,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
   },
   {
    "name": "Heavenly Restriction",
-   "keys": 8,
-   "gem_tax": null,
-   "demand": null,
-   "category": null
+   "category": "Perks",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 960000,
+   "demand": 2,
+   "status": "Stable"
   },
   {
-   "name": "Vizard’s Mask",
-   "keys": 900,
-   "gem_tax": null,
-   "demand": null,
-   "category": "Currency"
+   "name": "Festive Blade Gear",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "First Day on the Job",
+   "category": "Gamepasses",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Snow Globe",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Santa's Attire",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Rudolph Headband",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Frosty Flakes",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Festive Spear Gear",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Festive Spear Equipment",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Festive Sheath",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Christmas Constellation",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ninja's Attire",
+   "category": "Scout Fashion",
+   "keys": 15,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Warrior's Armband",
+   "category": "Raid Drops, Artifacts",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Plague Doctor's Mask",
+   "category": "Scout Fashion",
+   "keys": 15,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Steampunker's Attire",
+   "category": "Scout Fashion",
+   "keys": 15,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Candy Canes",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Soulfeed",
+   "category": "Perks",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Pirate's Attire",
+   "category": "Scout Fashion",
+   "keys": 15,
+   "tax_type": "gem",
+   "tax": 1200,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Wreath Halo",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 100000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Immortal",
+   "category": "Perks",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 9,
+   "status": "Stable"
+  },
+  {
+   "name": "Maximum Firepower",
+   "category": "Perks",
+   "keys": 15,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Festive Blade",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Winter Crate",
+   "category": "Event",
+   "keys": 15,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Nightfall",
+   "category": "Achievements",
+   "keys": 12,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Grapple Pack [1]",
+   "category": "Gamepasses",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 3000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge TS Set",
+   "category": "BATTLEPASS 3",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sunforge ODM Set",
+   "category": "BATTLEPASS 3",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "2x XP Boost [2h]",
+   "category": "Market",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Crimson Key",
+   "category": "Waves",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 200000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Lazurite Ticket",
+   "category": "Waves",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Detective's Attire",
+   "category": "Scout Fashion",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Jolly Mascot's Attire",
+   "category": "Scout Fashion",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Jolly Mascot's Hat",
+   "category": "Scout Fashion",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Snow Lilies",
+   "category": "Blade Burst",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Photon",
+   "category": "Blade Burst",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Autumnal",
+   "category": "Blade Burst",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Aqua Whisper",
+   "category": "Blade Burst",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Scathatch's Attire",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer Mask 3",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer Mask 2",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer Mask 1",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer (M)'s Attire",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Slayer (F)'s Attire",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Mouth Guard",
+   "category": "Anime Crates",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Astral Dice",
+   "category": "Waves",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Leonhart",
+   "category": "Family",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Everlasting Flame",
+   "category": "Perks",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Arlert",
+   "category": "Family",
+   "keys": 10,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Explosive Fortune",
+   "category": "Perks",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Tatsujin",
+   "category": "Perks",
+   "keys": 10,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Gold Boost [1h]",
+   "category": "Market",
+   "keys": 10,
+   "tax_type": null,
+   "tax": null,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Luck Boost [1h]",
+   "category": "Market",
+   "keys": 10,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Spooky Crate",
+   "category": "Event",
+   "keys": 10,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Colossal Shard",
+   "category": "Raid Drops, Market, Shifting",
+   "keys": 9,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Colossal Shard",
+   "category": "COLOSSAL RAID DROPS",
+   "keys": 9,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Cap 'n' Bells",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Conical Hat",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Coulrophobic Blade",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Coulrophobic Gear",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Coulrophobic Sheath",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Deathbound Spear Equipment",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Deathbound Spear Gear",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Dread and Doom",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Green Skelosaur's Attire",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Hallowed Horror",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Jester's Attire",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Jester's Mallet",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Phantasmal",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Vampiric Wings",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "White Skelosaur's Attire",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Wizard's Attire",
+   "category": "Event",
+   "keys": 9,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Peerless Commander",
+   "category": "Perks",
+   "keys": 8,
+   "tax_type": "gold",
+   "tax": 280000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Heavenly Restriction",
+   "category": "Perks",
+   "keys": 8,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Nel's Broken Horn",
+   "category": "Waves",
+   "keys": 8,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Power Scouter",
+   "category": "Waves",
+   "keys": 8,
+   "tax_type": null,
+   "tax": null,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Eviscerate",
+   "category": "Perks",
+   "keys": 7,
+   "tax_type": "gold",
+   "tax": 280000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Perfect Form",
+   "category": "Perks",
+   "keys": 7,
+   "tax_type": "gold",
+   "tax": 280000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Unparalleled Strength",
+   "category": "Perks",
+   "keys": 7,
+   "tax_type": "gold",
+   "tax": 280000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Armored Shard",
+   "category": "Raid Drops, Market, Shifting",
+   "keys": 6,
+   "tax_type": "gem",
+   "tax": 5000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Crown",
+   "category": "Achievements, Artifacts",
+   "keys": 6,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Armored Shard",
+   "category": "ARMORED RAID DROPS",
+   "keys": 6,
+   "tax_type": "gem",
+   "tax": 5000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Scarf",
+   "category": "Raid Drops, Artifacts",
+   "keys": 6,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Other Legendary Perks",
+   "category": "Perks",
+   "keys": 5,
+   "tax_type": "gold",
+   "tax": 280000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Blade Burst [2] Crate",
+   "category": "Blade Burst",
+   "keys": 5,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "Ksaver",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Finger",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Galliard",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Monk's Attire",
+   "category": "Scout Fashion",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 30,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Cleaning Mask",
+   "category": "Scout Fashion",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 30,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Will of the Wisps",
+   "category": "Blade Burst",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Plucked Wings",
+   "category": "Blade Burst",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Company Standard",
+   "category": "Blade Burst",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bubble Swirl",
+   "category": "Blade Burst",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Zoe",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Braun",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Tybur",
+   "category": "Family",
+   "keys": 5,
+   "tax_type": "gem",
+   "tax": 2500,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Attack Scars",
+   "category": "Artifacts, Raid Drops",
+   "keys": 5,
+   "tax_type": "gold",
+   "tax": 480000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Gilded Dice",
+   "category": "Waves",
+   "keys": 5,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Gold Boost [30m]",
+   "category": "Market",
+   "keys": 5,
+   "tax_type": null,
+   "tax": null,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "2x Luck Boost [30m]",
+   "category": "Market",
+   "keys": 5,
+   "tax_type": null,
+   "tax": null,
+   "demand": 5,
+   "status": "Stable"
+  },
+  {
+   "name": "2x XP Boost [1h]",
+   "category": "Market",
+   "keys": 5,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Perfect Form",
+   "category": "Perks",
+   "keys": 4,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Peerless Commander",
+   "category": "Perks",
+   "keys": 4,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 7,
+   "status": "Stable"
   },
   {
    "name": "Memory Scroll",
+   "category": "Market",
    "keys": 4,
-   "gem_tax": null,
-   "demand": null,
-   "category": "Currency"
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 8,
+   "status": "Overpriced"
   },
   {
-   "name": "Emperor’s Key",
+   "name": "Female Shard",
+   "category": "Raid Drops, Market, Shifting",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Attack Shard",
+   "category": "Raid Drops, Market, Shifting",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 8,
+   "status": "Stable"
+  },
+  {
+   "name": "Hoodie",
+   "category": "Raid Drops, Artifacts",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 6,
+   "status": "Stable"
+  },
+  {
+   "name": "Rifle",
+   "category": "Raid Drops, Artifacts",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Eviscerate",
+   "category": "Perks",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Unparalleled Strength",
+   "category": "Perks",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Steampunker's Hat",
+   "category": "Scout Fashion",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Cowboy's Attire",
+   "category": "Scout Fashion",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Solar Radiance",
+   "category": "Blade Burst",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Permafrost",
+   "category": "Blade Burst",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Fireworks",
+   "category": "Blade Burst",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bloodrot",
+   "category": "Blade Burst",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 360,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [6] Crate",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Saitama's Attire",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Philosopher's Energy",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Zero Two's Horns",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Terrible Tornado",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Lightning Flow",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ape Tail",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Anime All-Stars [5] Crate",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 7000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Miku's Attire",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Demon Dweller",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Obito's Mask",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Pirate's Hat",
+   "category": "Scout Fashion",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 240,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Naruto's Attire",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Attack Shard",
+   "category": "ATTACK RAID DROPS",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 4,
+   "status": "Stable"
+  },
+  {
+   "name": "Female Shard",
+   "category": "FEMALE RAID DROPS",
+   "keys": 3,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Kubikirbocho",
+   "category": "Anime Crates",
+   "keys": 3,
+   "tax_type": "gem",
+   "tax": 300,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "2x XP Boost [30m]",
+   "category": "Market",
+   "keys": 3,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Bombardier",
+   "category": "Perks",
+   "keys": 3,
+   "tax_type": null,
+   "tax": null,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Lazurite Key",
+   "category": "Waves",
+   "keys": 2.6,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Hardened Shield",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Scout Fashion [2] Crate",
+   "category": "Scout Fashion",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 3000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Cloak",
+   "category": "Raid Drops, Artifacts",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Other Legendary Perks",
+   "category": "Perks",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Fractured Surge",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Digital Fracture",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Duality",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Balance",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 3,
+   "status": "Stable"
+  },
+  {
+   "name": "Regiment Cloak (Black)",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Shogun's Helm",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Chef's Toque Blanche",
+   "category": "Scout Fashion",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Banana's Attire",
+   "category": "Scout Fashion",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Silver Bubbles",
+   "category": "Blade Burst",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Riptide",
+   "category": "Blade Burst",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Pink Hearts",
+   "category": "Blade Burst",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Shukaku's Sand",
+   "category": "Anime Crates",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sand Jar",
+   "category": "Anime Crates",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Hinata's Attire",
+   "category": "Anime Crates",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ninja War's Attire",
+   "category": "Anime Crates",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 150,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Iridescent Waves",
+   "category": "Blade Burst",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 180,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Atomic Bomb",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Chef's Attire",
+   "category": "Scout Fashion",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Mask of the Devil",
+   "category": "Scout Fashion",
+   "keys": 2,
+   "tax_type": "gem",
+   "tax": 120,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sweater",
+   "category": "Raid Drops, Artifacts",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 140000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Grimmjow's Mask",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Mask",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Young Reiner's Attire",
+   "category": "Raid Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Warrior's Medallion",
+   "category": "Mission Drops",
+   "keys": 2,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sleeping Mask",
+   "category": "Raid Drops, Artifacts",
    "keys": 1,
-   "gem_tax": null,
-   "demand": null,
-   "category": "Currency"
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Ring",
+   "category": "Raid Drops, Artifacts",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 2,
+   "status": "Stable"
+  },
+  {
+   "name": "Backpack",
+   "category": "Raid Drops, Artifacts",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Lantern",
+   "category": "Raid Drops, Artifacts",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Handkerchief",
+   "category": "Achievements, Artifacts",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Tiara",
+   "category": "Achievements",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Headband",
+   "category": "Achievements",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Onyx Set",
+   "category": "ACHIEVEMENT/BADGES",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Drippy Glasses",
+   "category": "Achievements",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 58000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Mushroom Cloud",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Young Annie's Rain Poncho",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Young Annie's Attire",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Blue Lightning",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Marleyan Patch",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Abyssion",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Herbal Magic",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Celestial",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Altar Chains",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bowler Hat (Black)",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Recon Visor",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Wizard Hat",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Midnight Mask",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bowler Hat (White)",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Mushroom Hat",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Ribbon",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Blood Vial",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Regiment Cloak (Green)",
+   "category": "Mission Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Emperor's Key",
+   "category": "Market",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 7,
+   "status": "Stable"
+  },
+  {
+   "name": "Goku's Attire",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Z Sword",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Shinobi Headband",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Kusanagi",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Aspiring Warrior's Attire",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Key",
+   "category": "Raid Drops, Artifacts",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 72000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Rock Lee's Attire",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Bladed Gauntlets",
+   "category": "Achievements",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Idol's Attire",
+   "category": "Anime Crates",
+   "keys": 1,
+   "tax_type": "gem",
+   "tax": 37,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Superheated",
+   "category": "Raid Drops",
+   "keys": 1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Command Key",
+   "category": "Waves",
+   "keys": 0.7,
+   "tax_type": "gold",
+   "tax": 30000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Sparkles",
+   "category": "Blade Burst",
+   "keys": 0.5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Rotting",
+   "category": "Blade Burst",
+   "keys": 0.5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Pixel Flames",
+   "category": "Blade Burst",
+   "keys": 0.5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Clovers",
+   "category": "Blade Burst",
+   "keys": 0.5,
+   "tax_type": "gem",
+   "tax": 45,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Wallsteel Key",
+   "category": "Waves",
+   "keys": 0.3,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Citizen's Attire",
+   "category": "Scout Fashion",
+   "keys": 0.2,
+   "tax_type": "gem",
+   "tax": 30,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Baseball Cap",
+   "category": "Scout Fashion",
+   "keys": 0.2,
+   "tax_type": "gem",
+   "tax": 30,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Journal",
+   "category": "Raid Drops, Artifacts",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 32000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Glasses",
+   "category": "Achievements, Artifacts",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 32000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Goggles",
+   "category": "Achievements, Artifacts",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 32000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Blazing Veil",
+   "category": "Raid Drops",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Hardened Blade",
+   "category": "Raid Drops",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 13000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Worn Key",
+   "category": "Waves",
+   "keys": 0.1,
+   "tax_type": "gold",
+   "tax": 3000,
+   "demand": 1,
+   "status": "Stable"
+  },
+  {
+   "name": "Asuna's Attire",
+   "category": "Daily Login",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Cthulhu",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Divine General",
+   "category": "Waves",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Dual Wield",
+   "category": "Daily Login",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Game Master",
+   "category": "Daily Login",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Inventory Curse",
+   "category": "Waves",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kirito's Attire",
+   "category": "Daily Login",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Blade",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Gear",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Sheath",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Spear Equipment",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kitsune Spear Gear",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Phoenix Blade",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Phoenix Gear",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Phoenix Sheath",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Phoenix Spear Equipment",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Phoenix Spear Gear",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Saber [Alter]'s Attire",
+   "category": "Waves",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Wendigo",
+   "category": "Battle Pass",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Sung Dripwoo's Attire",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": "gem",
+   "tax": 100000,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kamish's Wrath [R]",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": "gem",
+   "tax": 100000,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Monarch's Aura",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": "gem",
+   "tax": 100000,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Kamish's Wrath [L]",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": "gem",
+   "tax": 100000,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Collapse",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
+  },
+  {
+   "name": "Excalibur Morgan",
+   "category": "Leaderboard",
+   "keys": null,
+   "tax_type": null,
+   "tax": null,
+   "demand": 0,
+   "status": "Stable"
   }
  ]
 }
